@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "AQIFormer: A Transformer-Based Multi-View Architecture for Cross-City Air Quality Classification"
+authors:
+  - family-names: Kathalkar
+    given-names: Om
+  - family-names: Nilesh
+    given-names: Nitin
+  - family-names: Chaudhari
+    given-names: Sachin
+  - family-names: Namboodiri
+    given-names: Anoop
+preferred-citation:
+  type: conference-paper
+  title: "AQIFormer: A Transformer-Based Multi-View Architecture for Cross-City Air Quality Classification"
+  authors:
+    - family-names: Kathalkar
+      given-names: Om
+    - family-names: Nilesh
+      given-names: Nitin
+    - family-names: Chaudhari
+      given-names: Sachin
+    - family-names: Namboodiri
+      given-names: Anoop
+  collection-title: "Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2025)"
+  publisher:
+    name: "Association for Computing Machinery"
+  year: 2025
+  doi: "10.1145/3774521.3774577"
